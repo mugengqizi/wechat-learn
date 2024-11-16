@@ -1,0 +1,124 @@
+/**index.wxss**/
+.bei{
+  background-color: #F0EFF5;
+  width: 100%;
+  height: 100vh;
+}
+.outner{
+  padding: 15rpx;
+  background-color: white;
+}
+.inner{
+  width: 720rpx;
+  height: 58rpx;
+  background-color: #EEEEEE;
+  border-radius: 12rpx;
+  text-align: center;
+  line-height: 53rpx;
+}
+.inner>image{
+  width: 40rpx;
+  height: 40rpx;
+  vertical-align: middle;
+}
+.inner>text{
+  color: #a9a9a9;
+  font-size: 28rpx;
+  padding-left: 10rpx;
+}
+swiper{
+  height: 420rpx;
+}
+swiper image{
+  height: 420rpx;
+  width: 750rpx;
+}
+#nav{
+  height: 464rpx;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  background-color: white;
+}
+#nav view{
+  width: 150rpx;
+  font-size: 24rpx;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 50rpx;
+}
+#nav image{
+  width: 150rpx;
+  height: 150rpx;
+}
+#online {
+      height: 88rpx; 
+      font-size: 24rpx;
+      font-weight: bold;
+      background-color: #fff;
+      line-height: 88rpx;
+      padding: 0 30rpx;
+      margin: 24rpx 0;
+      display: flex;
+      justify-content:space-between;
+      align-items: center;
+  }
+#online image {
+      width: 60rpx;
+      height: 60rpx;
+      vertical-align: middle;
+  }
+#online text {
+      padding-left: 20rpx;
+      font-size: 13px;
+      margin-right: auto;
+  }
+#arrow image{
+      width: 35rpx;
+      height: 35rpx;
+  }
+.jingxuan{
+  font-weight: bold;
+  padding: 30rpx 0 0 50rpx;
+  background-color: white;
+}
+.long{
+  padding-top: 10px;
+  background-color: white;
+}
+.tuhua{
+  display: flex;
+  margin-left: 50rpx;
+  padding: 10px 0;
+  border-bottom: 1px solid #e0e0e0;
+  align-items: center;
+}
+.long image{
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+}
+.tuhua>view{
+  flex:1;
+  padding-left:7px;
+}
+.top1{
+  font-size: 16px;
+  font-weight: bold;
+  
+}
+.bottom1{
+  opacity: 0.5;
+  font-size: 14px;
+}
+.cha{
+  margin-left: 50rpx;
+  display: flex;
+  margin-top: 20rpx;
+  opacity: 0.5;
+}
+.cha image{
+  width: 30rpx;
+  height: 30rpx;
+  margin-left:auto;
+}

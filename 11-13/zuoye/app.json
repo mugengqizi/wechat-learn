@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/no2/no2"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarBackgroundColor": "#87CEFA"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "通告",
+        "iconPath": "imgs/home0.png",
+        "selectedIconPath": "imgs/home1.png"
+      },
+      {
+        "pagePath": "pages/no2/no2",
+        "text": "证明",
+        "iconPath": "imgs/my0.png",
+        "selectedIconPath": "imgs/my1.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

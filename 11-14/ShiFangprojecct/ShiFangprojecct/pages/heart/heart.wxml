@@ -1,0 +1,79 @@
+<view class="two">
+  <view class="tow-item">
+    <image src="/iages/article01.png" mode=""/>
+    <view>
+      <text class="name">心理健康综合筛查\n</text>
+      <text class="num">共18个</text>
+    </view>
+  </view>
+  <view class="tow-item">
+    <image src="/iages/article02.png" mode=""/>
+    <view>
+      <text class="name">情绪测验\n</text>
+      <text class="num">共10个</text>
+    </view>
+  </view>
+  <view class="tow-item">
+    <image src="/iages/article03.png" mode=""/>
+    <view>
+      <text class="name">人格、性格测验人格\n</text>
+      <text class="num">共6个</text>
+    </view>
+  </view>
+  <view class="tow-item">
+    <image src="/iages/article04.jpg" mode=""/>
+    <view>
+      <text class="name">应急及相关问题\n</text>
+      <text class="num">共3个</text>
+    </view>
+  </view>
+  <view class="tow-item">
+    <image src="/iages/article05.jpg" mode=""/>
+    <view>
+      <text class="name">生活质量与主观幸福感\n</text>
+      <text class="num">共5个</text>
+    </view>
+  </view>
+  <view class="tow-item">
+    <image src="/iages/article06.jpg" mode=""/>
+    <view>
+      <text class="name">临床医学、精神障碍\n</text>
+      <text class="num">共4个</text>
+    </view>
+  </view>
+  <view class="tow-item">
+    <image src="/iages/article07.jpg" mode=""/>
+    <view >
+      <text class="name">社区矫正类\n</text>
+      <text class="num">共6个</text>
+    </view>
+  </view>
+  <view class="tow-item">
+    <image src="/iages/article08.jpg" mode=""/>
+    <view>
+      <text class="name">职业规划\n</text>
+      <text class="num">共11个</text>
+    </view>
+  </view>
+  <view class="tow-item">
+    <image src="/iages/article09.jpg" mode=""/>
+    <view>
+      <text class="name">中学心理健康综合评估\n</text>
+      <text class="num">共6个</text>
+    </view>
+  </view>
+  <view class="tow-item">
+    <image src="/iages/article10.jpg" mode=""/>
+    <view>
+      <text class="name">警察专用\n</text>
+      <text class="num">共4个</text>
+    </view>
+  </view>
+  <view class="tow-item">
+    <image src="/iages/article11.jpg" mode=""/>
+    <view>
+      <text class="name">中小学教师用量表\n</text>
+      <text class="num">共3个</text>
+    </view>
+  </view>
+</view>

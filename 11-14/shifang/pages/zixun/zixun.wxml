@@ -1,0 +1,17 @@
+<view class="select">
+  <image src="/images/@2x_touch.png" mode=""/>
+  <text>点击筛选</text>
+</view>
+<view class="all">
+  <view class="long">
+    <view class="tuhua">
+      <image src="/images/zxs01.jpg" mode=""/>
+      <view>
+        <text class="name">张靖\n</text>
+        <text class="zhiwei">国家二级咨询师\n</text>
+        <text class="jieshao">中国专业人才库全国心理学考聘管理中心专家评委、中国全脑效能指导师</text>
+      </view>
+    </view>
+  
+  </view>
+</view>

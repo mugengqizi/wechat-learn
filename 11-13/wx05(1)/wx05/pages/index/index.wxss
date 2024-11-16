@@ -1,0 +1,18 @@
+view{
+  margin-bottom: 20px;
+}
+.container1{
+  font-size: 20px;
+  text-align: center;
+  color: #005f96;
+}
+.container2{
+  opacity: 0.5;
+}
+.container3,.container4{
+  text-indent: 2em;
+  line-height: 2em;
+}
+.container5,.container6{
+  text-align: right;
+}

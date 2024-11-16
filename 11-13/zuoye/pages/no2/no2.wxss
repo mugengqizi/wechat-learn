@@ -1,0 +1,41 @@
+/* pages/no2/no2.wxss */
+.l1{
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  margin: 20px;
+}
+.l3{
+  font-size: 17px;
+  text-indent: 2em;
+  margin: 20px;
+}
+.l4{
+  font-size: 17px;
+  margin-top: 20px;
+}
+.l2{
+  font-size: 14px;
+  border-bottom: 2px solid black;    
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.l5{
+  font-size: 17px;
+  text-align: right;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+.l6{   
+  font-size: 17px;
+  text-align: right;
+  padding-top: 10px;
+  margin-right: 20px;
+}
+.l7{
+  font-size: 17px;
+  margin-top: 20px;
+  padding-left: 20px;
+}

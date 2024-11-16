@@ -1,0 +1,43 @@
+.bei{
+  background-color: #F0EFF5;
+  width: 100%;
+  height: 100vh;
+}
+.qing{
+  width: 100%;
+  height: 130px;
+  color: white;
+  background-color: #87CEFA;
+}
+.qing view{
+  font-size: 17px;
+  text-align: center; 
+  padding-top: 25px;
+}
+.qing button{
+  font-size: 14px;
+  font-weight: 100;
+  color: white;
+  width: 110px;
+  height: 30px;
+  line-height: 15px;
+  border-radius: 10000px;
+  margin-top: 20px;
+}
+.qing button{
+  background-color: #2A90F2;
+}
+.kong{
+  margin: 20px 0px;
+  padding: 20rpx 30rpx 20rpx 30rpx;
+  background-color: white;
+}
+.kong>view{
+  display: flex;
+  margin: 20rpx 0rpx;
+  justify-content: space-between;
+}
+.kong image{
+  width: 40rpx;
+  height: 40rpx;
+}

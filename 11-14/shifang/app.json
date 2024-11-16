@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/my/my",
+    "pages/zixun/zixun",
+    "pages/kecheng/kecheng",
+    "pages/dengzhu/dengzhu",
+    "pages/zhuce/zhuce"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarBackgroundColor": "#ffffff"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/@2x_home_line.png",
+        "selectedIconPath": "/images/@2x_home.png"
+      },
+      {
+        "pagePath": "pages/zixun/zixun",
+        "text": "咨询",
+        "iconPath": "/images/@2x_talk_line.png",
+        "selectedIconPath": "/images/@2x_talk.png"
+      },
+      {
+        "pagePath": "pages/kecheng/kecheng",
+        "text": "课程",
+        "iconPath": "/images/@2x_class_line.png",
+        "selectedIconPath": "/images/@2x_class.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "/images/@2x_my_line.png",
+        "selectedIconPath": "/images/@2x_my.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

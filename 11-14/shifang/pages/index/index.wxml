@@ -1,0 +1,94 @@
+<view class="bei">
+  <view class="outner">
+    <view class="inner">
+      <image src="/images/@2x_find.png" mode=""/>
+      <text>搜索</text>
+    </view>
+  </view>
+
+  <swiper indicator-dots indicator-active-color="#fff" autoplay interval="3000">
+    <swiper-item>
+      <image src="/images/article01.png" mode=""/>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/article02.png" mode=""/>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/article03.png" mode=""/>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/article04.jpg" mode=""/>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/article05.jpg" mode=""/>
+    </swiper-item>
+  </swiper>
+
+  <view id="nav">
+    <view>
+      <image src="/images/@2x_ceping.png" mode=""/>
+      <text>心理测评</text>
+    </view>
+    <view>
+      <image src="/images/@2x_yuyue.png" mode=""/>
+      <text>咨询预约</text>
+    </view>
+    <view>
+      <image src="/images/@2x_dayi.png" mode=""/>
+      <text>心理答疑</text>
+    </view>
+    <view>
+      <image src="/images/@2x_zhishi.png" mode=""/>
+      <text>心理知识</text>
+    </view>
+    <view>
+      <image src="/images/@2x_FM.png" mode=""/>
+      <text>FM</text>
+    </view>
+    <view>
+      <image src="/images/@2x_gongyi.png" mode=""/>
+      <text>公益中心</text>
+    </view>
+  </view>
+
+  <view id="online">
+    <image src="/images/@2x_kefu.png" mode=""/>
+    <text>咨询助理在线客服</text>
+    <view id="arrow">
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+  </view>
+
+  <view class="jingxuan">
+    精选文章
+  </view>
+
+  <view class="long">
+    <view class="tuhua">
+      <image src="/images/littlegirl.png" mode=""/>
+      <view>
+        <view class="top1">你活出自我的样子，真美</view>
+        <text class="bottom1">千百年来，古人总把人的品格与自然之物相联系起来，以花草树木之品性喻人的精神情操。</text>
+      </view>
+    </view>
+    <view class="tuhua">
+      <image src="/images/jiushu.png" mode=""/>
+      <view>
+        <view class="top1">这个救赎，因校园霸凌而起</view>
+        <text class="bottom1">继《你的名字》之后，日本又出现了一个现象级的动画电影——《声之形》。</text>
+      </view>
+    </view>
+    <view class="tuhua">
+      <image src="/images/yiyu.png" mode=""/>
+      <view>
+        <view class="top1">抑郁症与抑郁情绪</view>
+        <text class="bottom1">抑郁症是一种常见的精神疾病，主要表现为情绪低落、兴趣减低、悲观、思维迟缓。</text>
+      </view>
+    </view>
+
+    <view class="cha">
+      <text>查看更多</text>
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,11 @@
+/**index.wxss**/
+page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.konm{
+  width: 375rpx;
+  height: 225px;
+  background-color: #00ff00;
+}

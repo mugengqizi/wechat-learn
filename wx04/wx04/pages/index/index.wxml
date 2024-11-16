@@ -1,0 +1,10 @@
+主页
+<!--这是注释内容，不会出现在页面中，也不会参与逻辑，解释说明
+功能，暂时屏蔽代码
+-->
+<!-- 下面是一篇文章 -->
+<view class="kong">孔乙己</view>
+
+<view>页面跳转</view>
+<navigator url="/pages/about/about">调到关于我们-普通跳转</navigator>
+<navigator open-type="switchTab" url="/pages/help/help">调到帮助-tabbar</navigator>

@@ -1,0 +1,9 @@
+<!--pages/no2/no2.wxml-->
+<view class="l1">离职证明</view>
+<view class="l3">兹证明 <text class="l2">  李博文 </text> 身份证号: <text class="l2">4105221991x</text> ，自<text class="l2">2020年06月 </text> 入职我工资担任 <text class="l2"> java开发工程师</text>
+一职，至 <text class="l2">2022年06月</text> 因个人原因申请离职，在此期间工作努力，无不良表现。
+<view class="l4">经公司慎重考虑准予离职，已办理交接手续。因未签订相关保密协议，遵从择业选择。</view>
+</view>
+<view class="l7">特此证明。</view>
+<view class="l6">华杉科技软件有限公司</view>
+<view class="l5"> 2022年06月30日</view>

@@ -1,0 +1,87 @@
+<view id="find">
+  <view>
+    <image src="/iages/@2x_find.png" mode=""/>
+    <text>搜索</text>
+  </view>
+</view>
+<!-- indicator 是否显示指示点，color指示点颜色  autoplay 是否自动切换-->
+<swiper indicator-dots indicator-active-color="#fff" autoplay interval="3000" 
+circular>
+  <swiper-item>
+    <image src="/iages/img1.png" mode=""/>
+  </swiper-item>
+  <swiper-item>
+    <image src="/iages/img2.png" mode=""/>
+  </swiper-item>
+  <swiper-item>
+    <image src="/iages/img3.png" mode=""/>
+  </swiper-item>
+</swiper>
+<view id="nav">
+    <view>
+      <navigator url="/pages/heart/heart">
+        <image src="/iages/@2x_ceping.png" mode=""/>
+        <text>心理测评</text>
+      </navigator>
+    </view>
+    <view>
+      <image src="/iages/@2x_yuyue.png" mode=""/>
+      <text>咨询预约</text>
+    </view>
+    <view>
+      <image src="/iages/@2x_dayi.png" mode=""/>
+      <text>心理答疑</text>
+    </view>
+    <view>
+      <image src="/iages/@2x_zhishi.png" mode=""/>
+      <text>心理知识</text>
+    </view>
+    <view>
+      <image src="/iages/@2x_FM.png" mode=""/>
+      <text>FM</text>
+    </view>
+    <view>
+      <image src="/iages/@2x_gongyi.png" mode=""/>
+      <text>公益中心</text>
+    </view>
+</view>
+<view id="online">
+    <view>
+        <image src="/iages/@2x_kefu.png" mode=""/>
+        <text>咨询助理在线客服</text>
+    </view>
+    <view id="arrow"></view>
+</view>
+<view id="title">
+  精选文章
+</view>
+<view class="container">
+  <view>
+    <image src="/iages/littlegirl.png"></image>
+    <view>
+      <text class="item-title">你活出自我的样子，真美\n</text>
+      <text class="item-desc">千百年来，古人总把人的品格与自然之物相联系起来，以花草树木之品性喻人的精神情操。</text>
+    </view>
+  </view>
+  <view>
+    <image src="/iages/jiushu.png"></image>
+    <view>
+      <text class="item-title">这个救赎，因校园霸凌而起\n</text>
+      <text class="item-desc">继《你的名字》之后，日本又出现了一个现象级的动画电影——《声之形》。</text>
+    </view>
+  </view>
+  <view>
+    <image src="/iages/yiyu.png"></image>
+    <view>
+      <text class="item-title">抑郁症与抑郁情绪\n</text>
+      <text class="item-desc">抑郁症是一种常见的精神疾病，主要表现为情绪低落、兴趣减低、悲观、思维迟缓。</text>
+    </view>
+  </view>
+</view>
+<view id="last">
+    <text>查看更多</text>
+    <image src="/iages/dayu.png" mode=""/>
+  </view>
+
+
+

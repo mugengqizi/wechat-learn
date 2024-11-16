@@ -1,0 +1,16 @@
+/* pages/biaoqian/biaoqian.wxss */
+.fa>view>text{
+  background-color:aqua;
+  font-style:italic;
+  font-weight:bold;
+  text-decoration:underline;
+  line-height:100px;
+}
+.yuan{
+  margin: 0 100px;
+  width: 200px;
+  height: 200px;
+  background-color:bisque;
+  border-radius: 10px;
+  box-shadow:10px 10px 20px red;
+}

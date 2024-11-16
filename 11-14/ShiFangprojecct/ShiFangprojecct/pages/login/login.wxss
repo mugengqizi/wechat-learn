@@ -1,0 +1,26 @@
+#one{
+  background-color: white;
+  margin-bottom: 100rpx;
+}
+input{
+  height: 60rpx;
+  margin: 2rpx 20rpx;
+  border-bottom: 1rpx solid #f5f5f5;
+}
+#login{
+  width: 700rpx;
+  background-color: #87cefa;
+  color: white;
+}
+#zhuce{
+  border: 2rpx solid #87cefa;
+  width: 700rpx;color: #87cefa;
+  margin-top: 30rpx;
+}
+#wjmm{
+  color: #87cefa;
+  font-size: 25rpx;
+  text-align: right;
+  margin-top: 20rpx;
+  margin-right: 20rpx;
+}

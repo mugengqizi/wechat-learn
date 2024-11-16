@@ -1,0 +1,7 @@
+<view id="one">
+  <input placeholder="手机号/用户名" type="text"/>
+  <input placeholder="密码" type="password"/>
+</view>
+<button bind:tap="goMy" id="login" >登录</button>
+<button bind:tap="goZhuCe" id="zhuce" >注册</button>
+<view id="wjmm" >忘记密码</view>

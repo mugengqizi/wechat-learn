@@ -1,0 +1,142 @@
+#find {
+  padding: 15rpx;
+}
+#find view{
+  width: 720rpx;
+  height: 58rpx;
+  background-color: #EEEEEE;
+  /* 圆角设置 */
+  border-radius: 12rpx;
+  text-align: center;
+  line-height: 53rpx;
+}
+#find  image {
+  width: 40rpx;
+  height: 40rpx;
+  vertical-align: middle;
+}
+#find  text {
+  color: #a9a9a9;
+  font-size: 28rpx;
+  padding-left: 10rpx;
+}
+swiper{
+    height: 420rpx;
+}
+swiper image {
+    height: 420rpx;
+    width: 730rpx;
+    padding:0px 10rpx;
+}
+#nav {
+  height: 464rpx;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  background-color: white;
+}
+#nav > view {
+  width: 150rpx;
+  font-size: 24rpx;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 50rpx;
+}
+#nav image {
+  width: 150rpx;
+  height: 150rpx;
+}
+#online {
+/* panding 内边距 */
+/* border 城墙厚度 */
+/* width height 表示内容的尺寸（不包括border panding）*/
+/* margin 外边距 */
+    height: 88rpx; 
+    font-size: 24rpx;
+    font-weight: bold;
+    background-color: #fff;
+    line-height: 88rpx;
+    /*  padding: 0 30rpx：表示上下内边距为0，左右内边距为30rpx */
+    padding: 0 30rpx;
+    /* margin: 24rpx 0; 表示上下外边距24rpx，左右外边距0 */
+    margin: 24rpx 0;
+    display: flex;
+    justify-content:space-between;
+    /* flex垂直居中 */
+    align-items: center;
+}
+#online image {
+    width: 60rpx;
+    height: 60rpx;
+    margin-top:-8rpx;
+    vertical-align: middle;
+}
+#online text {
+    padding-left: 20rpx;
+    font-size: 13px;
+}
+#arrow {
+    /* background-color: #a9a9a9; */
+    width: 18rpx;
+    height: 18rpx;
+    /* 
+   border: 设置四周的边框 
+   border-left/right/top/bottom: 设置指定的边框
+   */
+    border-top: 4rpx solid #a9a9a9;
+    border-right: 4rpx solid #a9a9a9;
+    transform: rotate(45deg);
+    margin-right: 30rpx;
+}
+#title{
+  font-weight: bold;
+  margin: 10rpx 50rpx;
+}
+.container {
+  margin-bottom: 50rpx;
+  padding: 10px;
+  background-color: #ffffff;
+}
+.container > view {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-bottom: 1px solid #e0e0e0;
+}
+.container image{
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+.container > view > view{
+  flex: 1;
+}
+.item-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 5px;
+}
+.item-desc {
+  font-size: 14px;
+  color: #666666;
+}
+#last{
+  background-color: white;
+  line-height: 70rpx;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  padding: 0% 20rpx;
+}
+#last image{
+  height: 30rpx;
+  width: 30rpx;
+}
+
+
+
+

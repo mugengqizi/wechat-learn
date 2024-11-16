@@ -1,0 +1,6 @@
+<!-- <view style="background-color: pink;">worinige</view>
+<view class='konm'>wannima</view> -->
+<navigator open-type="switchTab" url="/pages/LOVE/LOVE"><button bind:tap="owd" type="primary">qunide</button></navigator>
+<navigator url="/pages/box/box">日志</navigator>
+<view class="xue">omen</view>
+

@@ -1,0 +1,11 @@
+/* pages/swa/swa.wxss */
+
+.meinv{
+  width: 300px;
+  height: 400px;
+  margin: 0 auto;
+}
+.meinv image{
+  width: 300px;
+  height: 400px;
+}

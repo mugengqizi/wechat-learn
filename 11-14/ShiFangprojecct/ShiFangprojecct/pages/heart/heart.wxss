@@ -1,0 +1,24 @@
+.two{
+  margin: 10rpx;
+}
+.tow-item{
+  display: flex;
+  margin:20rpx;
+  border-bottom: 1rpx solid #c3c3c3;
+}
+.two image{
+  width: 245rpx;
+  height: 200rpx;
+  margin-bottom: 20rpx;
+  margin-right: 10rpx;
+}
+.name{
+  font-size: 40rpx;
+  font-weight: bold;
+  margin-left: 20rpx;
+}
+.num{
+  padding-left: 30rpx;
+  opacity: 0.4;
+  font-size: 20rpx;
+}

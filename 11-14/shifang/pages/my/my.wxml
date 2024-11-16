@@ -1,0 +1,53 @@
+<view class="bei">
+  <view class="qing">
+    <view>请登录十方教育</view>
+    <button bind:tap="goLogin">登录/注册</button>
+  </view>
+  <view class="kong">
+    <view>
+      <text>我的测评</text>
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+    <view style="border-bottom: 2px solid #F0EFF5;"></view>
+    <view>
+      <text>我的咨询</text>
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+    <view style="border-bottom: 1px solid #e0e0e0;"></view>
+    <view>
+      <text>我的回答</text>
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+    <view style="border-bottom: 1px solid #e0e0e0;"></view>
+    <view>
+      <text>我的通知</text>
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+    <view style="border-bottom: 1px solid #e0e0e0;"></view>
+    <view>
+      <text>课程收藏</text>
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+  </view>
+  <view class="kong">
+    <view>
+      <text>绑定手机</text>
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+    <view style="border-bottom: 2px solid #F0EFF5;"></view>
+    <view>
+      <text>修改密码</text>
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+    <view style="border-bottom: 1px solid #e0e0e0;"></view>
+    <view>
+      <text>关于我们</text>
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+    <view style="border-bottom: 1px solid #e0e0e0;"></view>
+    <view>
+      <text>退出登录</text>
+      <image src="/images/dayu.png" mode=""/>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,36 @@
+.bei{
+  background-color: #F0EFF5;
+  width: 100%;
+  height: 100vh;
+}
+.yam{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  /* flex-grow: 1; */
+}
+#sjh{
+  font-size: 18px;
+  height: 40px;
+  padding: 0px 10px;
+  margin: 1px ;
+  background-color: white;
+  
+}
+#yzm{
+  font-size: 18px;
+  height: 40px;
+  padding: 0px 10px;
+  margin: 1px ;
+}
+.yam text{
+  color: #87cefa;
+  font-weight: bold;
+  margin-right: 20rpx;
+}
+button{
+  margin-top: 40px;
+  color: #87cefa;
+  border:2rpx solid#87cefa;
+}

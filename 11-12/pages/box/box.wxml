@@ -1,0 +1,9 @@
+<!--pages/box/box.wxml-->
+<view class="box1">梁山泊</view>
+<view class="box2">祝英台</view>
+<navigator open-type="navigateBack"><button bind:tap="qew" type="primary">返回</button></navigator>
+<view class="song">宋江</view>
+
+<view class="wu">吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用吴用</view>
+
+<view class="lin">林黛玉</view>

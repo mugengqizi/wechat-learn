@@ -1,0 +1,7 @@
+<view style="background-color: white;margin-bottom: 10rpx;">
+  <input  placeholder="旧密码" type="text"/>
+  <input  placeholder="新密码" type="password"/>
+  <input  placeholder="确认新密码" type="password"/>
+</view>
+<button bind:tap="goLogin" id="charge">修改密码</button>
+<button bind:tap="goMy" id="next">取消修改</button>

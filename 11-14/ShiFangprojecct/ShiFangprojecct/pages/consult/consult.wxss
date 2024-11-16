@@ -1,0 +1,50 @@
+#first{
+  background-color: #88d1f9;
+  padding: 30rpx 270rpx;
+  margin: 5px 10rpx;
+  border-radius: 20rpx;
+}
+#first image{
+  width: 50rpx;
+  height: 50rpx;
+  vertical-align: middle;
+  margin-right: 10rpx;
+}
+.two{
+  margin: 10rpx;
+}
+.tow-item{
+  display: flex;
+  border-bottom: 1rpx solid #e0e0e0;
+  margin-top: 20rpx;
+}
+.tow-item image{
+  height: 200rpx;
+  width: 200rpx;
+  margin-bottom: 20rpx;
+  margin-right: 10rpx;
+}
+.tow-item > view{
+  flex: 1;
+}
+.name{
+  font-weight: bold;
+  font-size: 40rpx;
+}
+.zhiwei{
+  font-size: 30rpx;
+  opacity: 0.6;
+}
+.jieshao{
+  font-size: 20rpx;
+  opacity: 0.4;
+}
+#last image{
+  height: 45rpx;
+  width: 45rpx;
+  vertical-align: middle;
+  margin-right: 15rpx;
+}
+#last{
+  padding: 30rpx 205rpx ;
+}

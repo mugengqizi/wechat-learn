@@ -1,0 +1,16 @@
+.container{
+}
+view{
+  margin-bottom: 15px;
+}
+.container1{
+  font-size: 30px;
+  text-align: center;
+}
+.container2,.container3{
+  text-indent: 2em;
+  line-height: 2em;
+}
+.container5,.container6{
+  text-align: right;
+}

@@ -1,0 +1,17 @@
+<view>
+  <swiper class="meinv" indicator-dots="true" indicator-color="white" indicator-active-color="pink" 
+  autoplay="true" interval="3000" circular="true" easing-function="linear" >
+    <swiper-item><image src="https://wx2.sinaimg.cn/mw690/007Y7ePDgy1hqvm0c14c6j31hc1z4jyw.jpg" mode="scaleToFill"/>
+    </swiper-item>
+    <swiper-item>
+      <image src="https://pic.rmb.bdstatic.com/bjh/240606/8949c8d51cda4fb2ae4c9a0068362e1f2366.jpeg@h_1280" mode="scaleToFill"/>
+    </swiper-item>
+    <swiper-item>
+      <image src="https://img2.baidu.com/it/u=403582574,3759080722&fm=253&fmt=auto?w=800&h=1181" mode="scaleToFill"/>
+    </swiper-item>
+    <swiper-item><image src="https://pic.rmb.bdstatic.com/bjh/events/466387f4b689f1df10aabeaebf0441164902.jpeg@h_1280" mode="scaleToFill"/>
+    </swiper-item>
+    <swiper-item><image src="https://pic.rmb.bdstatic.com/bjh/71dd7ffb66c98105aaed1ab46c76bb108383.png" mode="aspectFill"/>
+    </swiper-item>
+  </swiper>
+</view>

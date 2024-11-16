@@ -1,0 +1,42 @@
+<!--pages/about/about.wxml-->
+<image class="one" src="/iages/@2x_2weima.png" mode=""/>
+<view style="font-size: 25rpx;text-align: center;">
+  微信扫一扫关注我们
+</view>
+<view class="up">
+  <view class="tittle">
+    公司名称
+  </view>
+  <view class="neirong">
+  河南十方心理咨询有限公司
+  </view>
+  <view class="tittle">
+    公司地址
+  </view>
+  <view class="neirong">
+  河南自贸试验区郑州片区绿地新都会2号楼A座十楼1007
+  </view>
+  <view class="tittle">
+    联系电话
+  </view>
+  <view class="neirong">
+  0371-68105666
+  </view>
+  <view class="tittle">
+    客服邮箱
+  </view>
+  <view class="neirong">
+  shifangxinli@163.com
+  </view> 
+</view>
+<image class="about" src="/iages/@2x_about.png" mode=""/>
+<view class="up">
+  <view class="tittle">
+    公司简介
+  </view>
+  <view class="neirong">
+    河南十方心理咨询有限公司成立于2017年5月23日，是第一批有能力搭建社会心理服务体系的机构；是对企业全面实施EAP整体项目的专业供应商；是为个体和企业提供个性化"心理测评"服务的心理健康机构：是对个体、团体进行心理咨询的心理服务机构；是首个注重并开展青少年素质培养的心理教育机构。我们以"培育健康的人格素质"为首要任务，一切以来访者的的个人成长和客户的收获为中心，在众多经验丰富的心理咨询专家的共同努力下，获得了社会的认可。
+  </view>
+</view>
+<!-- 下划线 -->
+<view style="border-bottom: 1px solid #e0e0e0;"></view>

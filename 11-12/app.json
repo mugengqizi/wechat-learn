@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/swa/swa",
+    "pages/biaoqian/biaoqian",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/LOVE/LOVE",
+    "pages/box/box",
+    "pages/ddflex/ddflex"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarBackgroundColor": "#00ff00"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "imgs/L1.png",
+        "selectedIconPath": "imgs/LOVE11.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath": "imgs/@2x_home_line.png",
+        "selectedIconPath": "imgs/@2x_home.png"
+      },
+      {
+        "pagePath": "pages/LOVE/LOVE",
+        "text": "爱",
+        "iconPath": "imgs/L0.png",
+        "selectedIconPath": "imgs/LOVE01.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

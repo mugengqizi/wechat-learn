@@ -1,0 +1,23 @@
+.one{
+  height: 400rpx;
+  width: 400rpx;
+  margin: 30rpx 175rpx;
+  background-color: white ;
+}
+.up{
+  margin: 50rpx 20rpx;
+}
+.tittle{
+  color: #87cefa;
+  font-size: 25rpx;
+  margin-top: 30rpx;
+  margin-bottom: 15rpx;
+}
+.neirong{
+  font-size: 25rpx;
+}
+.about{
+  width: 700rpx;
+  height: 600rpx;
+  margin-left: 25rpx;
+}

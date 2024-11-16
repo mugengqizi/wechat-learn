@@ -1,0 +1,47 @@
+.select{
+  padding: 30rpx 0;
+  text-align: center;
+  background-color: #88d1f9;
+}
+.select text{
+  color: white;
+}
+.select image{
+  width: 50rpx;
+  height: 50rpx;
+  vertical-align: middle;
+}
+.long{
+  padding-top: 10px;
+  background-color: white;
+}
+.tuhua{
+  display: flex;
+  margin-left: 10rpx;
+  border-bottom: 1px solid #e0e0e0;
+  align-items: center;
+}
+.long image{
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 5px;
+}
+.tuhua>view{
+  flex:1;
+  padding-left:7px;
+}
+.tuhua text{
+  line-height;
+}
+.name{
+  font-size: 16px;
+  font-weight: bold;
+}
+.zhiwei{
+  font-size: 16px;
+  opacity: 0.7;
+}
+.jieshao{
+  opacity: 0.5;
+  font-size: 14px;
+}

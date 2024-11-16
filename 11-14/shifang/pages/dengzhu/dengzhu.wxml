@@ -1,0 +1,9 @@
+<view class="bei">
+  <view class="shuru">
+    <input placeholder="手机号/用户名" type="text"/>
+    <input placeholder="密码" type="text" password/>
+  </view>
+  <button id="denglu">登录</button>
+  <button  id="zhuce" bind:tap="goZhuCe">注册</button>
+  <view class="wangji">忘记密码</view>
+</view>

@@ -1,0 +1,9 @@
+<!--pages/about/about.wxml-->
+<text>pages/about/about.wxml</text>
+关于我们页面
+
+<view>下面是自定义返回按钮</view>
+
+<navigator open-type="navigateBack">自定义返回</navigator>
+
+<navigator open-type="switchTab" url="/pages/index/index">返回-首页</navigator>

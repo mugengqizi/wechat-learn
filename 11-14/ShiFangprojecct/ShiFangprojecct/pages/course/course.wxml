@@ -1,0 +1,59 @@
+<view id="outer">
+  <view>
+    <image src="/iages/@2x_find.png" mode=""/>
+    <text>搜索课程</text>
+  </view>
+</view>
+<view id="santu">
+  <view>
+    <image src="/iages/@2x_online.png" />
+    <text>在线课程</text>
+  </view>
+  <view>
+    <image src="/iages/@2x_teacher.png" />
+    <text>师资团队</text>
+  </view>
+  <view>
+    <image src="/iages/@2x_gonggao.png" />
+    <text>咨询公告</text>
+  </view>
+</view>
+<swiper indicator-dots indicator-active-color="#fff" autoplay interval="3000" 
+circular>
+  <swiper-item>
+    <image src="/iages/img1.png" mode=""/>
+  </swiper-item>
+  <swiper-item>
+    <image src="/iages/img2.png" mode=""/>
+  </swiper-item>
+  <swiper-item>
+    <image src="/iages/img3.png" mode=""/>
+  </swiper-item>
+  <swiper-item>
+    <image src="/iages/article05.jpg" mode=""/>
+  </swiper-item>
+  <swiper-item>
+    <image src="/iages/article08.jpg" mode=""/>
+  </swiper-item>
+</swiper>
+<view style="font-weight: bold;height: 100rpx;text-align: center;line-height: 100rpx;">
+  热门课程
+</view>
+<view id="situ">
+  <view>
+    <image class="large" src="/iages/hotkc01.jpg" mode=""/>
+    <image class="large" src="/iages/hotkc02.jpg" mode=""/>
+  </view>
+  <text class="qian">心理科普：巴纳姆效应</text>
+  <text class="hou">3-6岁幼儿期心理特点</text>
+  <view>
+    <image class="large" src="/iages/hotkc03.jpg" mode=""/>
+    <image class="large" src="/iages/hotkc04.jpg" mode=""/>
+  </view>
+  <text class="zuo">心理防御机制</text>
+  <text class="you">中国茶叶与茶文化</text>
+</view>
+<view id="last">
+  <image src="/iages/loading.gif" mode=""/>
+  <text>正在加载更多数据</text>
+</view>

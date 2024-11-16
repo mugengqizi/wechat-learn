@@ -1,0 +1,14 @@
+<!--pages/help/help.wxml-->
+<text>pages/help/help.wxml</text>
+<!-- 按钮使用 -->
+<button>普通按钮1</button>
+<button type="default">普通按钮2</button>
+
+<button type="primary">按钮1</button>
+<button type="warn">按钮2</button>
+<button style="background-color: #ff0;">按钮2</button>
+<button bindtap="abc">点我，执行abc</button>
+<button bindtap="f2">点我，执行f2</button>
+
+<navigator url="/pages/about/about">关于我们-帮助页面</navigator>
+

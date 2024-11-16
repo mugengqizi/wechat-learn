@@ -1,0 +1,10 @@
+<view style="background-color: white;margin-bottom: 10rpx;">
+  <input  placeholder="昵称" type="text"/>
+  <input  placeholder="密码" type="password"/>
+  <input  placeholder="确认密码" type="password"/>
+</view>
+<view class="one">
+  <checkbox value=""/>
+  同意<text style="color: #80c0f1;">《社会心理健康注册协议》</text>
+</view>
+<button bind:tap="goLogin">注册</button>
