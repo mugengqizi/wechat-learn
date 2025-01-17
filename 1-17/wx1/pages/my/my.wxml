@@ -1,0 +1,54 @@
+<!--pages/index/index.wxml-->
+<view>
+  <view class="top">
+    <view class="search">
+      <view class="search_in">
+        <!-- 使用代码请更改图片路径 -->
+        <image src="/img/search.png"></image>
+        <input type="text" placeholder="请输入搜索内容" />
+        <view class="search_btn">搜索</view>
+      </view>
+    </view>
+  </view>
+</view>
+<swiper style="height: 240px;" indicator-dots autoplay circular easing-function="easeInOutCubic">
+  <swiper-item class="lun">
+    <image src="https://img.keaitupian.cn/uploads/2021/08/06/93595f21e11a1adbe7190294058ad05f.jpg" mode="" />
+  </swiper-item>
+  <swiper-item class="lun">
+    <image src="https://img-baofun.zhhainiao.com/fs/e0fbbe8b65f702e8b94276751c1f3785.jpg" mode="" />
+  </swiper-item>
+  <swiper-item class="lun">
+    <image src="https://img-baofun.zhhainiao.com/fs/b778cc547e4e3a27b58b4849720e76e5.jpg" mode="" />
+  </swiper-item>
+  <swiper-item class="lun">
+    <image src="https://img-baofun.zhhainiao.com/fs/de49b589ca485590777787e556cf8946.jpg" mode="" />
+  </swiper-item>
+</swiper>
+<view class="new">
+  <view class="head">
+    <text>新品推荐</text>
+  </view>
+  <view class="goods">
+    <view class="good">
+      <image src="/img/bailandi.png" mode="" />
+      <text class="name">白兰地</text>
+      <text class="price">￥499.00</text>
+    </view>
+    <view class="good">
+      <image src="/img/shouhuan.png" mode="" />
+      <text class="name">小米手环3代</text>
+      <text class="price">￥99.00</text>
+    </view>
+    <view class="good">
+      <image src="/img/yingshi.png" mode="" />
+      <text class="name">萤石</text>
+      <text class="price">￥199.00</text>
+    </view>
+    <view class="good">
+      <image src="/img/apple.png" mode="" />
+      <text class="name">Apple Wat</text>
+      <text class="price">￥2299.00</text>
+    </view>
+  </view>
+</view>

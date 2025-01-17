@@ -1,0 +1,27 @@
+<view class='recommend'>
+  <view class='recommend-title'>
+    <image src="/img/huo.png"></image><text>猜你喜欢</text>
+  </view>
+</view>
+<view class="love">
+  <view class="love_danti left">
+    <image src="/img/01.png" mode="" />
+    <text class="name">mm</text>
+    <text class="price">￥52.00</text>
+  </view>
+  <view class="love_danti right">
+    <image src="/img/02.png" mode="" />
+    <text class="name">m</text>
+    <text class="price">￥13.00</text>
+  </view>
+  <view class="love_danti left">
+    <image src="/img/03.png" mode="" />
+    <text class="name">光崽</text>
+    <text class="price">￥99.00</text>
+  </view>
+  <view class="love_danti right">
+    <image src="/img/04.png" mode="" />
+    <text class="name">333</text>
+    <text class="price">￥3.00</text>
+  </view>
+</view>
